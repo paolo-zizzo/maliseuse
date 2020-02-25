@@ -1,0 +1,18 @@
+ma liseuse 
+
+nécessite au moins 4 page (plus les page spécifique a chaque produit) :
+
+Accueil :
+-Mise en avant de l'entreprise et de son activité 
+
+Présentation (qui sommes nous):
+-Présentation de l'entreprise et de son histoire.
+
+Catégories : 
+-Présentation des produits avec page spécifique pour chacun d'entre eux 
+
+produits: 
+-Page presentant un produit lorsque l'on clique dessus dans Catégories
+
+Contact :
+- Page contactez-nous 
