@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-03-04 11:26:30+0000\n"
+"PO-Revision-Date: 2020-03-04 12:43:26+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29,6 +29,56 @@ msgstr ""
 #: packages/woocommerce-blocks/build/product-category-legacy.js:1
 msgid "The last inner block will follow other content."
 msgstr "Le dernier bloc intérieur suivra l'autre contenu."
+
+#: packages/woocommerce-blocks/src/BlockTypes/ProductCategories.php:170
+msgid "List of categories"
+msgstr "Liste des catégories"
+
+#: packages/woocommerce-blocks/src/BlockTypes/ProductCategories.php:171
+msgid "List of categories with their product counts"
+msgstr "Liste des catégories avec le nombre de produits"
+
+#: packages/woocommerce-blocks/src/BlockTypes/AbstractProductGrid.php:432
+msgid "Product on sale"
+msgstr "Produit en promotion"
+
+#: packages/woocommerce-blocks/assets/js/components/grid-layout-control/index.js:58
+#: packages/woocommerce-blocks/build/product-best-sellers.js:1
+#: packages/woocommerce-blocks/build/product-on-sale-legacy.js:1
+#: packages/woocommerce-blocks/build/product-best-sellers-legacy.js:1
+#: packages/woocommerce-blocks/build/products-by-attribute-legacy.js:1
+#: packages/woocommerce-blocks/build/product-top-rated-legacy.js:1
+#: packages/woocommerce-blocks/build/product-on-sale.js:1
+#: packages/woocommerce-blocks/build/product-category.js:1
+#: packages/woocommerce-blocks/build/products-by-attribute.js:1
+#: packages/woocommerce-blocks/build/product-new-legacy.js:1
+#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
+#: packages/woocommerce-blocks/build/product-new.js:1
+#: packages/woocommerce-blocks/build/all-products.js:1
+#: packages/woocommerce-blocks/build/product-tag.js:1
+#: packages/woocommerce-blocks/build/product-top-rated.js:1
+#: packages/woocommerce-blocks/build/product-category-legacy.js:1
+msgid "The last inner block will be aligned vertically."
+msgstr "Le dernier bloc intérieur sera aligné verticalement."
+
+#: packages/woocommerce-blocks/assets/js/components/grid-layout-control/index.js:52
+#: packages/woocommerce-blocks/build/product-best-sellers.js:1
+#: packages/woocommerce-blocks/build/product-on-sale-legacy.js:1
+#: packages/woocommerce-blocks/build/product-best-sellers-legacy.js:1
+#: packages/woocommerce-blocks/build/products-by-attribute-legacy.js:1
+#: packages/woocommerce-blocks/build/product-top-rated-legacy.js:1
+#: packages/woocommerce-blocks/build/product-on-sale.js:1
+#: packages/woocommerce-blocks/build/product-category.js:1
+#: packages/woocommerce-blocks/build/products-by-attribute.js:1
+#: packages/woocommerce-blocks/build/product-new-legacy.js:1
+#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
+#: packages/woocommerce-blocks/build/product-new.js:1
+#: packages/woocommerce-blocks/build/all-products.js:1
+#: packages/woocommerce-blocks/build/product-tag.js:1
+#: packages/woocommerce-blocks/build/product-top-rated.js:1
+#: packages/woocommerce-blocks/build/product-category-legacy.js:1
+msgid "Align Last Block"
+msgstr "Aligner le dernier bloc"
 
 #: includes/shortcodes/class-wc-shortcode-checkout.php:111
 msgid "You are paying for a guest order. Please continue with payment only if you recognize this order."
@@ -539,6 +589,12 @@ msgstr "Donnez du peps à votre bannière WordPress ! Décorez votre espace de 
 msgid "No products were found that matched your selection."
 msgstr "Aucun produit ne correspond à votre sélection."
 
+#: packages/woocommerce-blocks/assets/js/blocks/handpicked-products/block.js:61
+#: packages/woocommerce-blocks/build/handpicked-products.js:1
+#: packages/woocommerce-blocks/build/handpicked-products-legacy.js:1
+msgid "Align Buttons"
+msgstr "Aligner les boutons"
+
 #: packages/woocommerce-blocks/assets/js/components/product-category-control/index.js:76
 #: packages/woocommerce-blocks/build/product-best-sellers.js:1
 #: packages/woocommerce-blocks/build/product-on-sale-legacy.js:1
@@ -586,12 +642,6 @@ msgstr[1] "%d produits"
 #: packages/woocommerce-blocks/build/product-category-legacy.js:1
 msgid "The following error was returned"
 msgstr "L'erreur suivante a été retournée"
-
-#: packages/woocommerce-blocks/assets/js/blocks/handpicked-products/block.js:61
-#: packages/woocommerce-blocks/build/handpicked-products.js:1
-#: packages/woocommerce-blocks/build/handpicked-products-legacy.js:1
-msgid "Align Buttons"
-msgstr "Aligner les boutons"
 
 #: packages/woocommerce-blocks/assets/js/previews/reviews.js:47
 #: packages/woocommerce-blocks/build/reviews-by-category.js:1
@@ -1346,18 +1396,6 @@ msgid_plural "%d Reviews"
 msgstr[0] "%d avis"
 msgstr[1] "%d avis"
 
-#: packages/woocommerce-blocks/assets/js/blocks/reviews/all-reviews/no-reviews-placeholder.js:15
-#: packages/woocommerce-blocks/build/all-reviews-legacy.js:1
-#: packages/woocommerce-blocks/build/all-reviews.js:1
-msgid "This block shows a list of all product reviews. Your store does not have any reviews yet, but they will show up here when it does."
-msgstr "Ce bloc présente une liste de tous les avis sur le produit. Votre boutique ne possède pas encore d'avis, mais ces derniers apparaîtront ici lorsqu'ils auront été ajoutés."
-
-#: packages/woocommerce-blocks/assets/js/blocks/reviews/all-reviews/index.js:28
-#: packages/woocommerce-blocks/build/all-reviews-legacy.js:1
-#: packages/woocommerce-blocks/build/all-reviews.js:1
-msgid "Shows a list of all product reviews."
-msgstr "Présente une liste de tous les avis sur le produit."
-
 #: packages/woocommerce-blocks/assets/js/components/product-category-control/index.js:45
 #: packages/woocommerce-blocks/assets/js/blocks/reviews/reviews-by-product/edit.js:56
 #: packages/woocommerce-blocks/build/product-best-sellers.js:1
@@ -1380,6 +1418,18 @@ msgid "%s, has %d review"
 msgid_plural "%s, has %d reviews"
 msgstr[0] "%s possède %d avis"
 msgstr[1] "%s possède %d avis"
+
+#: packages/woocommerce-blocks/assets/js/blocks/reviews/all-reviews/no-reviews-placeholder.js:15
+#: packages/woocommerce-blocks/build/all-reviews-legacy.js:1
+#: packages/woocommerce-blocks/build/all-reviews.js:1
+msgid "This block shows a list of all product reviews. Your store does not have any reviews yet, but they will show up here when it does."
+msgstr "Ce bloc présente une liste de tous les avis sur le produit. Votre boutique ne possède pas encore d'avis, mais ces derniers apparaîtront ici lorsqu'ils auront été ajoutés."
+
+#: packages/woocommerce-blocks/assets/js/blocks/reviews/all-reviews/index.js:28
+#: packages/woocommerce-blocks/build/all-reviews-legacy.js:1
+#: packages/woocommerce-blocks/build/all-reviews.js:1
+msgid "Shows a list of all product reviews."
+msgstr "Présente une liste de tous les avis sur le produit."
 
 #: packages/woocommerce-blocks/assets/js/components/error-placeholder/error-message.js:32
 #: packages/woocommerce-blocks/build/product-best-sellers.js:1
@@ -1408,6 +1458,15 @@ msgstr[1] "%s possède %d avis"
 #: packages/woocommerce-blocks/build/product-category-legacy.js:1
 msgid "The following error was returned from the API"
 msgstr "L'API a retourné l'erreur suivante"
+
+#: packages/woocommerce-blocks/assets/js/blocks/reviews/reviews-by-category/no-reviews-placeholder.js:15
+#: packages/woocommerce-blocks/assets/js/blocks/reviews/reviews-by-category/edit.js:137
+#: packages/woocommerce-blocks/assets/js/blocks/reviews/reviews-by-category/edit.js:177
+#: packages/woocommerce-blocks/assets/js/blocks/reviews/reviews-by-category/index.js:21
+#: packages/woocommerce-blocks/build/reviews-by-category.js:1
+#: packages/woocommerce-blocks/build/reviews-by-category-legacy.js:1
+msgid "Reviews by Category"
+msgstr "Avis par catégorie"
 
 #: packages/woocommerce-blocks/assets/js/components/error-placeholder/error-message.js:10
 #: packages/woocommerce-blocks/build/product-best-sellers.js:1
@@ -1450,15 +1509,6 @@ msgstr "Une erreur inconnue est survenue et empêche la mise à jour du bloc."
 #: packages/woocommerce-blocks/build/reviews-by-product.js:1
 msgid "Sorry, an error occurred"
 msgstr "Désolé, une erreur est survenue"
-
-#: packages/woocommerce-blocks/assets/js/blocks/reviews/reviews-by-category/no-reviews-placeholder.js:15
-#: packages/woocommerce-blocks/assets/js/blocks/reviews/reviews-by-category/edit.js:137
-#: packages/woocommerce-blocks/assets/js/blocks/reviews/reviews-by-category/edit.js:177
-#: packages/woocommerce-blocks/assets/js/blocks/reviews/reviews-by-category/index.js:21
-#: packages/woocommerce-blocks/build/reviews-by-category.js:1
-#: packages/woocommerce-blocks/build/reviews-by-category-legacy.js:1
-msgid "Reviews by Category"
-msgstr "Avis par catégorie"
 
 #: packages/woocommerce-blocks/assets/js/components/error-placeholder/index.js:33
 #: packages/woocommerce-blocks/build/reviews-by-category.js:1
@@ -2893,6 +2943,25 @@ msgstr "Meilleures ventes de produits"
 msgid "Filter by Product Category"
 msgstr "Filtrer par catégorie de produit"
 
+#: packages/woocommerce-blocks/assets/js/blocks/product-tag/block.js:293
+#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
+#: packages/woocommerce-blocks/build/product-tag.js:1
+msgid "This block displays products from selected tags. In order to preview this you'll first need to create a product and assign it some tags."
+msgstr "Ce bloc affiche les produits correspondants aux étiquettes sélectionnées. Pour en afficher un aperçu, vous devez au préalable créer un produit et l’affecter à des étiquettes."
+
+#: packages/woocommerce-blocks/assets/js/blocks/product-tag/block.js:240
+#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
+#: packages/woocommerce-blocks/build/product-tag.js:1
+msgid "This block displays products from selected tags. Select at least one tag to display its products."
+msgstr "Ce bloc affiche les produits correspondants aux étiquettes sélectionnées. Sélectionnez au moins une étiquette pour afficher les produits qu’elle contient."
+
+#: packages/woocommerce-blocks/assets/js/blocks/product-tag/block.js:162
+#: packages/woocommerce-blocks/assets/js/blocks/product-tag/block.js:171
+#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
+#: packages/woocommerce-blocks/build/product-tag.js:1
+msgid "Showing Products by Tag block preview."
+msgstr "Affichage d’un aperçu du bloc Produits par étiquette."
+
 #: packages/woocommerce-blocks/assets/js/components/product-category-control/index.js:171
 #: packages/woocommerce-blocks/build/product-best-sellers.js:1
 #: packages/woocommerce-blocks/build/product-on-sale-legacy.js:1
@@ -2965,25 +3034,6 @@ msgstr "Sélectionnez au moins deux catégories pour utiliser ce réglage."
 msgid "Category search results updated."
 msgstr "Résultats de la recherche par catégorie mis à jour."
 
-#: packages/woocommerce-blocks/assets/js/blocks/product-tag/block.js:293
-#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
-#: packages/woocommerce-blocks/build/product-tag.js:1
-msgid "This block displays products from selected tags. In order to preview this you'll first need to create a product and assign it some tags."
-msgstr "Ce bloc affiche les produits correspondants aux étiquettes sélectionnées. Pour en afficher un aperçu, vous devez au préalable créer un produit et l’affecter à des étiquettes."
-
-#: packages/woocommerce-blocks/assets/js/blocks/product-tag/block.js:240
-#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
-#: packages/woocommerce-blocks/build/product-tag.js:1
-msgid "This block displays products from selected tags. Select at least one tag to display its products."
-msgstr "Ce bloc affiche les produits correspondants aux étiquettes sélectionnées. Sélectionnez au moins une étiquette pour afficher les produits qu’elle contient."
-
-#: packages/woocommerce-blocks/assets/js/blocks/product-tag/block.js:162
-#: packages/woocommerce-blocks/assets/js/blocks/product-tag/block.js:171
-#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
-#: packages/woocommerce-blocks/build/product-tag.js:1
-msgid "Showing Products by Tag block preview."
-msgstr "Affichage d’un aperçu du bloc Produits par étiquette."
-
 #: packages/woocommerce-blocks/assets/js/components/product-category-control/index.js:111
 #: packages/woocommerce-blocks/build/product-best-sellers.js:1
 #: packages/woocommerce-blocks/build/product-on-sale-legacy.js:1
@@ -3003,6 +3053,15 @@ msgid "%d category selected"
 msgid_plural "%d categories selected"
 msgstr[0] "%d catégorie sélectionnée"
 msgstr[1] "%d catégories sélectionnées"
+
+#: packages/woocommerce-blocks/assets/js/blocks/product-tag/block.js:181
+#: packages/woocommerce-blocks/assets/js/blocks/product-tag/block.js:234
+#: packages/woocommerce-blocks/assets/js/blocks/product-tag/block.js:287
+#: packages/woocommerce-blocks/assets/js/blocks/product-tag/index.js:19
+#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
+#: packages/woocommerce-blocks/build/product-tag.js:1
+msgid "Products by Tag"
+msgstr "Produits par étiquettes"
 
 #: packages/woocommerce-blocks/assets/js/components/product-category-control/index.js:105
 #: packages/woocommerce-blocks/build/product-best-sellers.js:1
@@ -3079,14 +3138,17 @@ msgid_plural "%s, has %d products"
 msgstr[0] "%s, a %d produit"
 msgstr[1] "%s, a %d produits"
 
-#: packages/woocommerce-blocks/assets/js/blocks/product-tag/block.js:181
-#: packages/woocommerce-blocks/assets/js/blocks/product-tag/block.js:234
-#: packages/woocommerce-blocks/assets/js/blocks/product-tag/block.js:287
-#: packages/woocommerce-blocks/assets/js/blocks/product-tag/index.js:19
-#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
-#: packages/woocommerce-blocks/build/product-tag.js:1
-msgid "Products by Tag"
-msgstr "Produits par étiquettes"
+#: packages/woocommerce-blocks/assets/js/blocks/handpicked-products/block.js:71
+#: packages/woocommerce-blocks/build/handpicked-products.js:1
+#: packages/woocommerce-blocks/build/handpicked-products-legacy.js:1
+msgid "Buttons follow content."
+msgstr "Les boutons s’adaptent au contenu."
+
+#: packages/woocommerce-blocks/assets/js/blocks/handpicked-products/block.js:67
+#: packages/woocommerce-blocks/build/handpicked-products.js:1
+#: packages/woocommerce-blocks/build/handpicked-products-legacy.js:1
+msgid "Buttons are aligned vertically."
+msgstr "Les boutons sont alignés verticalement."
 
 #: packages/woocommerce-blocks/assets/js/blocks/attribute-filter/edit.js:321
 #: packages/woocommerce-blocks/assets/js/blocks/products-by-attribute/block.js:152
@@ -3142,18 +3204,6 @@ msgstr "Terminé"
 #: packages/woocommerce-blocks/build/product-category-legacy.js:1
 msgid "Layout"
 msgstr "Mise en page"
-
-#: packages/woocommerce-blocks/assets/js/blocks/handpicked-products/block.js:71
-#: packages/woocommerce-blocks/build/handpicked-products.js:1
-#: packages/woocommerce-blocks/build/handpicked-products-legacy.js:1
-msgid "Buttons follow content."
-msgstr "Les boutons s’adaptent au contenu."
-
-#: packages/woocommerce-blocks/assets/js/blocks/handpicked-products/block.js:67
-#: packages/woocommerce-blocks/build/handpicked-products.js:1
-#: packages/woocommerce-blocks/build/handpicked-products-legacy.js:1
-msgid "Buttons are aligned vertically."
-msgstr "Les boutons sont alignés verticalement."
 
 #: packages/woocommerce-blocks/assets/js/components/grid-layout-control/index.js:40
 #: packages/woocommerce-blocks/build/product-best-sellers.js:1
@@ -3320,6 +3370,38 @@ msgstr "Sélectionnez au moins deux étiquettes pour utiliser ce réglage."
 msgid "Menu Order"
 msgstr "Ordre du menu"
 
+#: packages/woocommerce-blocks/assets/js/components/product-tag-control/index.js:118
+#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
+#: packages/woocommerce-blocks/build/product-tag.js:1
+msgid "Tag search results updated."
+msgstr "Résultats de la recherche par étiquette mise à jour."
+
+#: packages/woocommerce-blocks/assets/js/components/product-tag-control/index.js:110
+#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
+#: packages/woocommerce-blocks/build/product-tag.js:1
+msgid "%d tag selected"
+msgid_plural "%d tags selected"
+msgstr[0] "%d étiquette sélectionnée"
+msgstr[1] "%d étiquettes sélectionnées"
+
+#: packages/woocommerce-blocks/assets/js/components/product-tag-control/index.js:104
+#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
+#: packages/woocommerce-blocks/build/product-tag.js:1
+msgid "Search for product tags"
+msgstr "Recherche des étiquettes de produit"
+
+#: packages/woocommerce-blocks/assets/js/components/product-tag-control/index.js:100
+#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
+#: packages/woocommerce-blocks/build/product-tag.js:1
+msgid "Your store doesn't have any product tags."
+msgstr "Votre boutique ne comporte pas d’étiquettes de produit."
+
+#: packages/woocommerce-blocks/assets/js/components/product-tag-control/index.js:95
+#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
+#: packages/woocommerce-blocks/build/product-tag.js:1
+msgid "Clear all product tags"
+msgstr "Effacer toutes les étiquettes de produit"
+
 #: packages/woocommerce-blocks/assets/js/components/product-orderby-control/index.js:53
 #: packages/woocommerce-blocks/build/product-on-sale-legacy.js:1
 #: packages/woocommerce-blocks/build/products-by-attribute-legacy.js:1
@@ -3398,32 +3480,6 @@ msgstr "Prix - du plus élevé ou au plus faible"
 msgid "Price - low to high"
 msgstr "Prix - du plus faible au plus élevé"
 
-#: packages/woocommerce-blocks/assets/js/components/product-tag-control/index.js:118
-#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
-#: packages/woocommerce-blocks/build/product-tag.js:1
-msgid "Tag search results updated."
-msgstr "Résultats de la recherche par étiquette mise à jour."
-
-#: packages/woocommerce-blocks/assets/js/components/product-tag-control/index.js:110
-#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
-#: packages/woocommerce-blocks/build/product-tag.js:1
-msgid "%d tag selected"
-msgid_plural "%d tags selected"
-msgstr[0] "%d étiquette sélectionnée"
-msgstr[1] "%d étiquettes sélectionnées"
-
-#: packages/woocommerce-blocks/assets/js/components/product-tag-control/index.js:104
-#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
-#: packages/woocommerce-blocks/build/product-tag.js:1
-msgid "Search for product tags"
-msgstr "Recherche des étiquettes de produit"
-
-#: packages/woocommerce-blocks/assets/js/components/product-tag-control/index.js:100
-#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
-#: packages/woocommerce-blocks/build/product-tag.js:1
-msgid "Your store doesn't have any product tags."
-msgstr "Votre boutique ne comporte pas d’étiquettes de produit."
-
 #: packages/woocommerce-blocks/assets/js/components/product-orderby-control/index.js:18
 #: packages/woocommerce-blocks/assets/js/blocks/products/edit.js:40
 #: packages/woocommerce-blocks/build/product-on-sale-legacy.js:1
@@ -3439,6 +3495,14 @@ msgstr "Votre boutique ne comporte pas d’étiquettes de produit."
 #: packages/woocommerce-blocks/build/product-category-legacy.js:1
 msgid "Newness - newest first"
 msgstr "Nouveauté - la dernière nouveauté en premier"
+
+#: packages/woocommerce-blocks/assets/js/components/product-tag-control/index.js:77
+#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
+#: packages/woocommerce-blocks/build/product-tag.js:1
+msgid "%d product tagged as %s"
+msgid_plural "%d products tagged as %s"
+msgstr[0] "%d produit étiqueté sous %s"
+msgstr[1] "%d produits étiquetés sous %s"
 
 #: packages/woocommerce-blocks/assets/js/components/product-category-control/index.js:152
 #: packages/woocommerce-blocks/assets/js/components/product-attribute-term-control/index.js:156
@@ -3464,19 +3528,10 @@ msgstr "Nouveauté - la dernière nouveauté en premier"
 msgid "Display products matching"
 msgstr "Afficher les produits correspondants"
 
-#: packages/woocommerce-blocks/assets/js/components/product-tag-control/index.js:95
-#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
-#: packages/woocommerce-blocks/build/product-tag.js:1
-msgid "Clear all product tags"
-msgstr "Effacer toutes les étiquettes de produit"
-
-#: packages/woocommerce-blocks/assets/js/components/product-tag-control/index.js:77
-#: packages/woocommerce-blocks/build/product-tag-legacy.js:1
-#: packages/woocommerce-blocks/build/product-tag.js:1
-msgid "%d product tagged as %s"
-msgid_plural "%d products tagged as %s"
-msgstr[0] "%d produit étiqueté sous %s"
-msgstr[1] "%d produits étiquetés sous %s"
+#. translators: 1: is a link to a support document. 2: closing link
+#: src/Packages.php:109 src/Autoloader.php:60
+msgid "Your installation of WooCommerce is incomplete. If you installed WooCommerce from GitHub, %1$splease refer to this document%2$s to set up your development environment."
+msgstr "Votre installation de WooCommerce n’est pas terminée. Si vous avez installé WooCommerce à partir de GitHub, %1$sconsultez ce document%2$s pour configurer votre environnement de développement."
 
 #: packages/woocommerce-blocks/assets/js/components/grid-content-control/index.js:56
 #: packages/woocommerce-blocks/build/product-best-sellers.js:1
@@ -3564,6 +3619,10 @@ msgstr "Note du produit"
 #: packages/woocommerce-blocks/build/product-category-legacy.js:1
 msgid "Product price is hidden."
 msgstr "Le prix du produit est masqué."
+
+#: src/Packages.php:87 src/Autoloader.php:48
+msgid "Your installation of WooCommerce is incomplete. If you installed WooCommerce from GitHub, please refer to this document to set up your development environment: https://github.com/woocommerce/woocommerce/wiki/How-to-set-up-WooCommerce-development-environment"
+msgstr "Votre installation de WooCommerce n’est pas terminée. Si vous avez installé WooCommerce à partir de GitHub, consultez ce document pour configurer votre environnement de développement. https://github.com/woocommerce/woocommerce/wiki/How-to-set-up-WooCommerce-development-environment"
 
 #: packages/woocommerce-blocks/assets/js/components/grid-content-control/index.js:36
 #: packages/woocommerce-blocks/build/product-best-sellers.js:1
@@ -3664,15 +3723,6 @@ msgstr "Le titre du produit est visible."
 #: packages/woocommerce-blocks/build/product-category-legacy.js:1
 msgid "Product title"
 msgstr "Titre du produit"
-
-#. translators: 1: is a link to a support document. 2: closing link
-#: src/Packages.php:109 src/Autoloader.php:60
-msgid "Your installation of WooCommerce is incomplete. If you installed WooCommerce from GitHub, %1$splease refer to this document%2$s to set up your development environment."
-msgstr "Votre installation de WooCommerce n’est pas terminée. Si vous avez installé WooCommerce à partir de GitHub, %1$sconsultez ce document%2$s pour configurer votre environnement de développement."
-
-#: src/Packages.php:87 src/Autoloader.php:48
-msgid "Your installation of WooCommerce is incomplete. If you installed WooCommerce from GitHub, please refer to this document to set up your development environment: https://github.com/woocommerce/woocommerce/wiki/How-to-set-up-WooCommerce-development-environment"
-msgstr "Votre installation de WooCommerce n’est pas terminée. Si vous avez installé WooCommerce à partir de GitHub, consultez ce document pour configurer votre environnement de développement. https://github.com/woocommerce/woocommerce/wiki/How-to-set-up-WooCommerce-development-environment"
 
 #: packages/woocommerce-blocks/assets/js/base/components/product-sort-select/index.js:59
 #: packages/woocommerce-blocks/assets/js/components/product-orderby-control/index.js:14
@@ -4494,7 +4544,7 @@ msgstr "Activer WooCommerce Admin"
 
 #: includes/admin/class-wc-admin-settings.php:144
 msgid "Selecting no country to sell to prevents from completing the checkout. Continue anyway?"
-msgstr "Ne sélectionner aucun pays où vendre empêche de compléter la commande. Continuer malgré tout ?"
+msgstr "Ne sélectionner aucun pays/région où vendre empêche la validation de la commande. Continuer malgré tout ?"
 
 #: includes/class-wc-form-handler.php:131
 msgid "Please enter a valid Eircode."
@@ -4550,11 +4600,6 @@ msgstr "Planificateur d’actions"
 #: includes/libraries/action-scheduler/classes/ActionScheduler_ListTable.php:231
 msgid "Cron %s"
 msgstr "Cron %s"
-
-#. translators: %s refers to the action ID
-#: includes/libraries/action-scheduler/classes/ActionScheduler_WPCLI_QueueRunner.php:152
-msgid "Completed processing action %s with hook: %s"
-msgstr "Action complétée %s avec le crochet : %s"
 
 #. translators: %s php class name
 #: includes/libraries/action-scheduler/classes/ActionScheduler_WPCLI_QueueRunner.php:31
@@ -4651,6 +4696,11 @@ msgstr "WooCommerce met à jour les données de produit en arrière-plan"
 #: includes/class-wc-ajax.php:1086
 msgid "Invalid rate"
 msgstr "TVA non valide"
+
+#. translators: %s refers to the action ID
+#: includes/libraries/action-scheduler/classes/ActionScheduler_WPCLI_QueueRunner.php:152
+msgid "Completed processing action %s with hook: %s"
+msgstr "Traitement de l’action %s terminé avec le crochet : %s"
 
 #: includes/admin/settings/class-wc-settings-advanced.php:364
 msgid "Leave this box unchecked if you do not want to see suggested extensions."
@@ -5145,16 +5195,6 @@ msgstr "Merci d’avoir créé un compte sur %1$s. Votre identifiant est %2$s. V
 msgid "Here are the details of your order placed on %s:"
 msgstr "Voici les détails de votre commande passée le %s :"
 
-#: includes/emails/class-wc-email-customer-completed-order.php:140
-msgid "Thanks for shopping with us."
-msgstr "Merci pour votre achat."
-
-#. translators: %s: Customer billing full name
-#: templates/emails/plain/admin-new-order.php:25
-#: templates/emails/admin-new-order.php:26
-msgid "You’ve received the following order from %s:"
-msgstr "Vous avez reçu la commande suivante de %s :"
-
 #. translators: %s: Customer first name
 #. translators: %s: Customer username
 #: templates/emails/customer-invoice.php:30
@@ -5176,6 +5216,16 @@ msgstr "Vous avez reçu la commande suivante de %s :"
 msgid "Hi %s,"
 msgstr "Bonjour %s,"
 
+#: includes/emails/class-wc-email-customer-completed-order.php:140
+msgid "Thanks for shopping with us."
+msgstr "Merci pour votre achat."
+
+#. translators: %s: Customer billing full name
+#: templates/emails/plain/admin-new-order.php:25
+#: templates/emails/admin-new-order.php:26
+msgid "You’ve received the following order from %s:"
+msgstr "Vous avez reçu la commande suivante de %s :"
+
 #: includes/emails/class-wc-email-failed-order.php:142
 msgid "Hopefully they’ll be back. Read more about <a href=\"https://docs.woocommerce.com/document/managing-orders/\">troubleshooting failed payments</a>."
 msgstr "En savoir plus sur <a href=\"https://docs.woocommerce.com/document/managing-orders/\">les paiements échoués</a>."
@@ -5189,10 +5239,6 @@ msgstr "Merci de votre attention."
 #: includes/libraries/action-scheduler/classes/ActionScheduler_Logger.php:96
 msgid "action ignored"
 msgstr "action ignorée"
-
-#: includes/libraries/action-scheduler/classes/ActionScheduler_InvalidActionException.php:22
-msgid "Action [%s] has invalid arguments. It cannot be JSON decoded to an array."
-msgstr "L’action [%s] a des arguments non valides. Elle ne peut pas être décodée en JSON dans un tableau."
 
 #: includes/libraries/action-scheduler/classes/ActionScheduler_Store.php:184
 msgid "Failed"
@@ -5311,10 +5357,6 @@ msgstr "Erreur lors de l'enregistrement de l'action : %s"
 #: includes/libraries/action-scheduler/classes/ActionScheduler_Logger.php:92
 msgid "action reset"
 msgstr "réinitialisation de l'action"
-
-#: includes/libraries/action-scheduler/classes/ActionScheduler_Logger.php:87
-msgid "unexpected shutdown: PHP Fatal error %s in %s on line %s"
-msgstr "arrêt inattendu : Erreur fatale inhérente au PHP %s dans %s à la ligne %s"
 
 #: includes/libraries/action-scheduler/classes/ActionScheduler_Logger.php:82
 msgid "action timed out after %s seconds"
@@ -5436,10 +5478,6 @@ msgstr " (%s)"
 msgid " (%s ago)"
 msgstr " (Il y a %s)"
 
-#: includes/libraries/action-scheduler/classes/ActionScheduler_ListTable.php:347
-msgid "Could not process change for action: \"%s\" (ID: %d). Error: %s"
-msgstr "Impossible de traiter les modifications de l'action : « %s » (ID : %d). Erreur : %s"
-
 #: includes/libraries/action-scheduler/classes/ActionScheduler_ListTable.php:342
 msgid "Successfully processed change for action: %s"
 msgstr "Modification de l'action traitée avec succès : %s"
@@ -5451,10 +5489,6 @@ msgstr "Action annulée avec succès : %s"
 #: includes/libraries/action-scheduler/classes/ActionScheduler_ListTable.php:336
 msgid "Successfully executed action: %s"
 msgstr "Action exécutée avec succès : %s"
-
-#: includes/libraries/action-scheduler/classes/ActionScheduler_ListTable.php:321
-msgid "Maximum simultaneous batches already in progress (%s queues). No actions will be processed until the current batches are complete."
-msgstr "Nombre maximal de lots simultanés déjà en cours de traitement (%s files d'attente). Aucune action ne sera traitée tant que les lots en cours ne seront pas terminés."
 
 #: includes/libraries/action-scheduler/classes/ActionScheduler_ListTable.php:235
 msgid "Non-repeating"
@@ -5631,6 +5665,22 @@ msgstr "Tri du plus récent au plus ancien"
 #: includes/libraries/action-scheduler/classes/ActionScheduler_wpPostStore_TaxonomyRegistrar.php:14
 msgid "Action Group"
 msgstr "Groupe d’action"
+
+#: includes/libraries/action-scheduler/classes/ActionScheduler_InvalidActionException.php:22
+msgid "Action [%s] has invalid arguments. It cannot be JSON decoded to an array."
+msgstr "L'action [%s] comporte des arguments non valides. Décodage JSON impossible dans un tableau."
+
+#: includes/libraries/action-scheduler/classes/ActionScheduler_ListTable.php:321
+msgid "Maximum simultaneous batches already in progress (%s queues). No actions will be processed until the current batches are complete."
+msgstr "Nombre maximal de files d’attente simultanées déjà en cours de traitement (%s files d’attente). Aucune action ne sera traitée tant que les files d'attente en cours ne seront pas terminées."
+
+#: includes/libraries/action-scheduler/classes/ActionScheduler_ListTable.php:347
+msgid "Could not process change for action: \"%s\" (ID: %d). Error: %s"
+msgstr "Impossible de traiter les modifications de l'action suivante : « %s » (ID : %d). Erreur : %s"
+
+#: includes/libraries/action-scheduler/classes/ActionScheduler_Logger.php:87
+msgid "unexpected shutdown: PHP Fatal error %s in %s on line %s"
+msgstr "arrêt inattendu : Erreur fatale inhérente au PHP (%s) dans le fichier %s à la ligne %s"
 
 #: packages/woocommerce-rest-api/src/Controllers/Version3/class-wc-rest-reports-controller.php:67
 msgid "Attributes totals."

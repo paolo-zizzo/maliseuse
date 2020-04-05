@@ -19,19 +19,19 @@
 
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
-define('DB_NAME', 'maliseuse');
+define( 'DB_NAME', 'maliseuse' );
 
 /** Utilisateur de la base de données MySQL. */
-define('DB_USER', 'root');
+define( 'DB_USER', 'root' );
 
 /** Mot de passe de la base de données MySQL. */
-define('DB_PASSWORD', '');
+define( 'DB_PASSWORD', '' );
 
 /** Adresse de l’hébergement MySQL. */
-define('DB_HOST', 'localhost');
+define( 'DB_HOST', 'localhost' );
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
-define('DB_CHARSET', 'utf8');
+define( 'DB_CHARSET', 'utf8mb4' );
 
 /** Type de collation de la base de données.
   * N’y touchez que si vous savez ce que vous faites.
@@ -49,14 +49,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define( 'AUTH_KEY',         '4aJfVB_QZI@(7*CN;$8{m]Mf7H)#[h8(5/M/-ZWT,tTbIM/]j#?X||8oV~05q;P^' );
+define( 'SECURE_AUTH_KEY',  '-ZEMVqI,X=]%l.tCzVJN7zEf$@1u0C5C19b$Z`<kpF>P<Ygld5mPDq1KCD6NgYMb' );
+define( 'LOGGED_IN_KEY',    ' oB5+Y6*8ZIp2bzz8NV-Os8&n4i8x>B-*&8?3jYi4%a_x(pQ<|)W2xn}6G- .%tt' );
+define( 'NONCE_KEY',        'ZF:_,Qem7i0>r&Pb[*(/dIjt$+@^+_X[u5An~D/u3O*$ELmk`4P{jFn+PZdJ/Z7^' );
+define( 'AUTH_SALT',        'pl03Yx;uyVD-Xe+Pa1GMUfltj.pejJJG*L5C;+Ol6Q# -%QXCv=J[p0yY@A6{LGD' );
+define( 'SECURE_AUTH_SALT', 'm5y|Z_2Wvg=/$,U0@8htg_:@)}#f6^|${^E?B2v3.MvY1h{?Wq1uo/ARZn<I(EnX' );
+define( 'LOGGED_IN_SALT',   '$nCEs-98[S&I[adr|hp_=uBx5}lhkY[sJKIJ]3A-Tll&hIa|Cs@>9M?>F$o&UO4Z' );
+define( 'NONCE_SALT',       'tSAg4(|=--_YdbWnzU1Fl<|lQ`n*Q!%./>dbp=XgYlhei2x.pb2u6}B781Jkivyr' );
 /**#@-*/
 
 /**
@@ -82,7 +82,7 @@ $table_prefix = 'wp_';
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
-define('WP_DEBUG', false);
+define('WP_ALLOW_REPAIR', true);
 
 /* C’est tout, ne touchez pas à ce qui suit ! Bonne publication. */
 
