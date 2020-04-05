@@ -1,0 +1,1080 @@
+# Translation of Themes - Full Frame in French (France)
+# This file is distributed under the same license as the Themes - Full Frame package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-30 18:41:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Full Frame\n"
+
+#. Description of the theme
+msgid "Full Frame is a Simple, Clean and Spacious Full Width Responsive WordPress Theme based on Catch Base Theme. Built on HTML5, CSS3 and Theme Customizer for real time customization, it comes with a whole set of interesting and rich features which makes this theme highly customizable and flexible. Make your beautiful yet professional website in no time. Full Frame WordPress Theme will be best suited for photography, portfolio and blogging sites. This theme is translation ready and also currently translated in Swedish, French, Brazilian Portuguese, German, Hungarian, Lithuanian and Danish languages. Check out Theme Instructions at https://catchthemes.com/theme-instructions/full-frame/, Support at https://catchthemes.com/support/ and Demo at https://catchthemes.com/demo/full-frame/"
+msgstr "Full Frame est un thème WordPress responsive simple, propre et aéré, basé sur le thème Catch Base. Construit en HTML5, CSS3 et avec l’outil de personnalisation de thème pour une personnalisation en temps réel, il embarque plein de fonctionnalités riches et intéressantes qui rendent ce thème hautement personnalisable et flexible. Rendez votre site web beau et professionnel en un rien de temps. Le thème WordPress Full Frame  sera le plus adapté pour la photographie, les portefolios et les sites de blogs. Ce thème est prêt à traduire, et déjà traduit en suédois, français, portugais brésilien, allemand, hongrois, lituanien et danois. Consultez les instructions du thème sur https://catchthemes.com/theme-instructions/full-frame/, le support sur https://catchthemes.com/support/ et la démo sur https://catchthemes.com/demo/full-frame/"
+
+#. Theme Name of the theme
+msgid "Full Frame"
+msgstr "Full Frame"
+
+#: inc/fullframe-metabox.php:122
+msgid "Single Page/Post Image Layout"
+msgstr "Mise en page de l'image sur Page ou Article seul"
+
+#: inc/fullframe-default-options.php:214 inc/fullframe-default-options.php:259
+msgid "Page"
+msgstr "Page"
+
+#: inc/fullframe-default-options.php:213 inc/fullframe-default-options.php:258
+msgid "Demo"
+msgstr "Démo"
+
+#: inc/fullframe-default-options.php:580
+msgctxt "1: Year, 2: Site Title with home URL 3: Privacy Policy Link"
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved. %3$s"
+msgstr "Copyright &copy; %1$s %2$s. Tous droits réservés. %3$s"
+
+#: inc/fullframe-default-options.php:580
+msgid "Y"
+msgstr "Y"
+
+#: inc/customizer-includes/fullframe-customizer-custom-controls.php:30
+msgid "All Categories"
+msgstr "Toutes les catégories"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s réponse sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réponses sur &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Une réponse sur &ldquo;%s&rdquo;"
+
+#: inc/customizer-includes/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "Mettre à niveau maintenant"
+
+#: inc/customizer-includes/upgrade-button/class-customize.php:76
+msgid "Full Frame Pro"
+msgstr "Full Frame Pro"
+
+#: inc/customizer-includes/fullframe-customizer.php:206
+msgid "Refresh the customizer page after saving to view reset effects"
+msgstr "Rafraîchissez la page de l’outil de personnalisation pour voir les effets de la remise à zéro"
+
+#: inc/fullframe-core.php:667
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "<span class=\"screen-reader-text\">Publié sur</span>"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:404
+msgid "Check to disable Scroll Up"
+msgstr "Cochez pour désactiver le défilement vers le haut"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:394
+msgid "Scrollup Options"
+msgstr "Options de défilement vers le haut"
+
+#: inc/fullframe-default-options.php:474
+msgid "Link"
+msgstr "Lien de désabonnement"
+
+#: inc/fullframe-default-options.php:470
+msgid "Cloud"
+msgstr "Cloud"
+
+#: inc/fullframe-default-options.php:466
+msgid "Cart"
+msgstr "Panier"
+
+#: inc/fullframe-default-options.php:462
+msgid "Handset"
+msgstr "N° de fixe"
+
+#: inc/fullframe-default-options.php:458
+msgid "Phone"
+msgstr "Tél"
+
+#: inc/fullframe-default-options.php:454
+msgid "Website"
+msgstr "Site web"
+
+#: sidebar.php:40
+msgid "By default it will load Search and Archives widgets as shown below. You can add widget to this area by visiting your <a href=\"%s\">Widgets Panel</a> which will replace default widgets."
+msgstr "Par défaut,  cela chargera les widgets  Recherche et Archives comme présenté ci-dessous. Vous pouvez ajouter des widgets à cette zone en visitant votre <a href=\"%s\"> Panneau de Widgets </a> qui remplacera les widgets par défaut."
+
+#: sidebar.php:39
+msgid "This is the Primary Sidebar Widget Area if you are using a two column site layout option."
+msgstr "C'est la zone de widgets de la colonne latérale principale si vous utilisez l’option de mise en page sur deux colonnes."
+
+#: sidebar.php:36
+msgid "Primary Sidebar Widget Area"
+msgstr "Zone de widgets de la colonne latérale principale"
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Rechercher"
+
+#: searchform.php:14 searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "Recherche pour :"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour %s"
+
+#: no-results.php:14
+msgid "Error 404-Page NOT Found"
+msgstr "Erreur 404 - Page non trouvée"
+
+#: inc/fullframe-widgets.php:106
+msgid "Title (optional):"
+msgstr "Titre (facultatif) :"
+
+#: inc/fullframe-widgets.php:65
+msgid "Use this widget to add Social Icons as a widget. "
+msgstr "Utilisez ce widget pour ajouter des icônes de réseaux sociaux comme widget. "
+
+#: inc/fullframe-widgets.php:44
+msgid "Footer %d widget area."
+msgstr "Zone de widgets %d du pied de page."
+
+#: inc/fullframe-widgets.php:38
+msgid "Footer Area %d"
+msgstr "Zone %d du Pied de page"
+
+#: inc/fullframe-widgets.php:31
+msgid "This is the primary sidebar if you are using two column site layout option."
+msgstr "C’est la colonne latérale principale si vous utilisez l’option de mise en page du site sur deux  colonnes."
+
+#: inc/fullframe-widgets.php:25
+msgid "Primary Sidebar"
+msgstr "Colonne latérale principale"
+
+#: inc/fullframe-metabox.php:185
+msgid "Fullframe Options"
+msgstr "Options de Fullframe"
+
+#: inc/fullframe-metabox.php:105
+msgid "Header Featured Image Options"
+msgstr "Option d’en-tête avec image mise en avant"
+
+#: inc/fullframe-menus.php:67
+msgid "Header Toggle"
+msgstr "Ouvrir/Fermer l’en-tête"
+
+#: inc/fullframe-menus.php:39
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/fullframe-menus.php:27
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: inc/fullframe-featured-content.php:315
+#: inc/fullframe-featured-content.php:332 inc/fullframe-featured-slider.php:185
+#: inc/fullframe-featured-slider.php:201 inc/fullframe-featured-slider.php:211
+msgid "Permalink to:"
+msgstr "Permalien vers :"
+
+#: inc/fullframe-featured-content.php:58
+msgid "Here you can showcase the x number of Featured Content. You can edit this Headline, Subheadline and Feaured Content from \"Appearance -> Customize -> Featured Content Options\"."
+msgstr "Ici vous pouvez mettre en valeur un nombre x de Pages mises en avant. Vous pouvez modifier ce titre, sous titre et contenu mis en avant à partir de \"Apparence -> Personnaliser -> Section mise en avant\"."
+
+#: inc/fullframe-default-options.php:582
+msgid "by"
+msgstr "par"
+
+#: inc/fullframe-default-options.php:565
+msgid "Disable Image"
+msgstr "Désactiver l’image"
+
+#: inc/fullframe-default-options.php:555
+msgid "Featured Image"
+msgstr "Image mise en avant"
+
+#: inc/fullframe-default-options.php:533
+msgid "Disable"
+msgstr "Désactiver"
+
+#: inc/fullframe-default-options.php:528
+msgid "Enable"
+msgstr "Activer"
+
+#: inc/fullframe-default-options.php:492 inc/fullframe-default-options.php:523
+#: inc/fullframe-default-options.php:550
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/fullframe-default-options.php:450
+msgid "Twitch"
+msgstr "Twitch "
+
+#: inc/fullframe-default-options.php:442
+msgid "Spotify"
+msgstr "Spotify "
+
+#: inc/fullframe-default-options.php:446
+msgid "Foursquare"
+msgstr "Foursquare "
+
+#: inc/fullframe-default-options.php:438
+msgid "DropBox"
+msgstr "DropBox "
+
+#: inc/fullframe-default-options.php:434
+msgid "Pocket"
+msgstr "Pocket "
+
+#: inc/fullframe-default-options.php:430
+msgid "Stumbleupon"
+msgstr "StumbleUpon "
+
+#: inc/fullframe-default-options.php:426
+msgid "Reddit"
+msgstr "Reddit "
+
+#: inc/fullframe-default-options.php:422
+msgid "Digg"
+msgstr "Digg "
+
+#: inc/fullframe-default-options.php:418
+msgid "Skype"
+msgstr "Skype "
+
+#: inc/fullframe-default-options.php:414
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/fullframe-default-options.php:410
+msgid "Path"
+msgstr "Chemin "
+
+#: inc/fullframe-default-options.php:406
+msgid "CodePen"
+msgstr "CodePen "
+
+#: inc/fullframe-default-options.php:402
+msgid "PollDaddy"
+msgstr "PollDaddy "
+
+#: inc/fullframe-default-options.php:398
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/fullframe-default-options.php:394
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/fullframe-default-options.php:390
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/fullframe-default-options.php:386
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/fullframe-default-options.php:382
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/fullframe-default-options.php:378
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/fullframe-default-options.php:374
+msgid "LinkedIn"
+msgstr "Linkedin"
+
+#: inc/fullframe-default-options.php:370
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/fullframe-default-options.php:366
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/fullframe-default-options.php:362
+msgid "Feed"
+msgstr "Feed"
+
+#: inc/fullframe-default-options.php:358 inc/fullframe-social-icons.php:37
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/fullframe-default-options.php:354
+msgid "Googleplus"
+msgstr "Googleplus"
+
+#: inc/fullframe-default-options.php:350
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/fullframe-default-options.php:346
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/fullframe-default-options.php:330 inc/fullframe-default-options.php:560
+msgid "Full Size"
+msgstr "Taille originale"
+
+#: inc/fullframe-default-options.php:329
+msgid "Featured"
+msgstr "Mis en avant"
+
+#: inc/fullframe-default-options.php:315
+msgid "Infinite Scroll (Scroll)"
+msgstr "Défilement infini (Scroll) "
+
+#: inc/fullframe-default-options.php:314
+msgid "Infinite Scroll (Click)"
+msgstr "Défilement infini (Clic) "
+
+#: inc/fullframe-default-options.php:313
+msgid "Numeric"
+msgstr "Numérique"
+
+#: inc/fullframe-default-options.php:312
+msgid "Default(Older Posts/Newer Posts)"
+msgstr "Par défaut (Articles plus anciens/Articles plus récents) "
+
+#: inc/fullframe-default-options.php:298
+msgid "False"
+msgstr "Faux"
+
+#: inc/fullframe-default-options.php:297
+msgid "Wait"
+msgstr "En attente"
+
+#: inc/fullframe-default-options.php:296
+msgid "True"
+msgstr "Exact"
+
+#: inc/fullframe-default-options.php:282
+msgid "Shuffle"
+msgstr "Shuffle "
+
+#: inc/fullframe-default-options.php:281
+msgid "Tile Blind"
+msgstr "Tuile aveugle"
+
+#: inc/fullframe-default-options.php:280
+msgid "Tile Slide"
+msgstr "Diapositive en tuiles"
+
+#: inc/fullframe-default-options.php:279
+msgid "Flip Vertical"
+msgstr "Retournement vertical"
+
+#: inc/fullframe-default-options.php:278
+msgid "Flip Horizontal"
+msgstr "Retournement horizontal"
+
+#: inc/fullframe-default-options.php:277
+msgid "Scroll Vertical"
+msgstr "Défilement Vertical "
+
+#: inc/fullframe-default-options.php:276
+msgid "Scroll Horizontal"
+msgstr "Défilement horizontal "
+
+#: inc/fullframe-default-options.php:275
+msgid "None"
+msgstr "Aucun"
+
+#: inc/fullframe-default-options.php:274
+msgid "Fade Out"
+msgstr "Disparaître "
+
+#: inc/fullframe-default-options.php:273
+msgid "Fade"
+msgstr "Fondu"
+
+#: inc/fullframe-default-options.php:244
+msgid "Hide Content"
+msgstr "Masquer le contenu"
+
+#: inc/fullframe-default-options.php:243
+msgid "Show Full Content"
+msgstr "Montrer tout le contenu"
+
+#: inc/fullframe-default-options.php:229
+msgid "4 columns"
+msgstr "4 colonnes "
+
+#: inc/fullframe-default-options.php:228
+msgid "3 columns"
+msgstr "3 colonnes"
+
+#: inc/fullframe-default-options.php:183
+msgid "Slider Image"
+msgstr "Image de diaporama"
+
+#: inc/fullframe-default-options.php:182
+msgid "Large Image"
+msgstr "Grande image"
+
+#: inc/fullframe-default-options.php:181
+msgid "Full Image"
+msgstr "Image originale"
+
+#: inc/fullframe-default-options.php:167 inc/fullframe-default-options.php:199
+#: inc/fullframe-default-options.php:331
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: inc/fullframe-default-options.php:166
+msgid "Pages and Posts"
+msgstr "Pages et Articles"
+
+#: inc/fullframe-default-options.php:165
+msgid "Entire Site, Page/Post Featured Image"
+msgstr "Image mise en avant sur les Pages/Articles sur tout le site"
+
+#: inc/fullframe-default-options.php:164 inc/fullframe-default-options.php:198
+msgid "Entire Site"
+msgstr "Tout le site"
+
+#: inc/fullframe-default-options.php:163
+msgid "Excluding Homepage, Page/Post Featured Image"
+msgstr "Image mise en avant sur les Pages/Articles, sauf sur la page d’accueil"
+
+#: inc/fullframe-default-options.php:162
+msgid "Excluding Homepage"
+msgstr "À l’exception de la page d’accueil"
+
+#: inc/fullframe-default-options.php:161 inc/fullframe-default-options.php:197
+msgid "Homepage / Frontpage"
+msgstr " Page d'accueil / Page de blog"
+
+#: inc/fullframe-default-options.php:147
+msgid "Show Full Content (No Featured Image)"
+msgstr "Afficher le contenu complet (pas d’image mise en avant)"
+
+#: inc/fullframe-default-options.php:146 inc/fullframe-default-options.php:242
+msgid "Show Excerpt"
+msgstr "Afficher l’extrait"
+
+#: inc/fullframe-default-options.php:133 inc/fullframe-default-options.php:507
+msgid "No Sidebar ( Content Width )"
+msgstr "Aucune colonne latérale (Contenu large)"
+
+#: inc/fullframe-default-options.php:132 inc/fullframe-default-options.php:502
+msgid "Content, Primary Sidebar"
+msgstr "Contenu, Colonne latérale principale"
+
+#: inc/fullframe-default-options.php:131 inc/fullframe-default-options.php:497
+msgid "Primary Sidebar, Content"
+msgstr "Colonne latérale principale, Contenu"
+
+#: inc/fullframe-default-options.php:117
+msgid "Dark"
+msgstr "Sombre"
+
+#: inc/fullframe-default-options.php:116
+msgid "Light"
+msgstr "Clair"
+
+#: inc/fullframe-default-options.php:73
+msgid "Search..."
+msgstr "Rechercher …"
+
+#: inc/fullframe-default-options.php:68
+msgid "Reviews"
+msgstr "Avis"
+
+#: inc/fullframe-default-options.php:67
+msgid "This is promotion headline. You can edit this from Appearance -> Customize -> Theme Options -> Promotion Headline Options"
+msgstr "C'est la section Promotion. Vous pouvez la modifier à partir de Apparence -> Personnaliser -> Options du thème -> Options de section Promotion"
+
+#: inc/fullframe-default-options.php:66
+msgid "Full Frame is a Premium Responsive WordPress Theme"
+msgstr "Full Frame est un thème WordPress Responsive Premium"
+
+#: inc/fullframe-default-options.php:56
+msgid "Read More ..."
+msgstr "Lire plus …"
+
+#: inc/fullframe-core.php:1384
+msgid "Previous post:"
+msgstr "Article précédent :"
+
+#: inc/fullframe-core.php:1383
+msgid "&larr; Previous"
+msgstr "&larr; Précédent"
+
+#: inc/fullframe-core.php:1381
+msgid "Next post:"
+msgstr "Article suivant :"
+
+#: inc/fullframe-core.php:1380
+msgid "Next &rarr;"
+msgstr "Suivant &rarr;"
+
+#: inc/fullframe-core.php:1339
+msgid "By"
+msgstr "de"
+
+#: inc/fullframe-core.php:1338
+msgid "Posted on"
+msgstr "Posté le"
+
+#: inc/fullframe-core.php:1320
+msgid "Scroll Up"
+msgstr "Faire défiler vers le haut"
+
+#: inc/fullframe-core.php:714
+msgctxt "Used before tag names."
+msgid "<span class=\"screen-reader-text\">Tags</span>"
+msgstr "<span class=\"screen-reader-text\">Étiquettes</span>"
+
+#: inc/fullframe-core.php:706
+msgctxt "Used before category names."
+msgid "<span class=\"screen-reader-text\">Categories</span>"
+msgstr "<span class=\"screen-reader-text\">Catégories</span>"
+
+#: inc/fullframe-core.php:703 inc/fullframe-core.php:711
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/fullframe-core.php:682
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: inc/fullframe-core.php:682
+msgid "1 Comment"
+msgstr "Un commentaire"
+
+#: inc/fullframe-core.php:682
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: inc/fullframe-core.php:674
+msgctxt "Used before post author name."
+msgid "<span class=\"screen-reader-text\">Author</span>"
+msgstr "<span class=\"screen-reader-text\">Auteur</span>"
+
+#: inc/fullframe-core.php:564
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de validation."
+
+#: inc/fullframe-core.php:557
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: inc/fullframe-core.php:551
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dit :</span>"
+
+#: inc/fullframe-core.php:541
+msgid "Pingback:"
+msgstr "Ping :"
+
+#: inc/fullframe-core.php:509
+msgid "Post navigation"
+msgstr "Navigation des articles"
+
+#: inc/fullframe-core.php:86 inc/fullframe-menus.php:26
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: inc/fullframe-breadcrumb.php:223
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/fullframe-breadcrumb.php:62
+msgid "Error 404"
+msgstr "erreur 404"
+
+#: inc/fullframe-breadcrumb.php:61
+msgid "%1$sView all posts by %2$s"
+msgstr "%1$s Voir tous les articles de %2$s"
+
+#: inc/fullframe-breadcrumb.php:60
+msgid "%1$sPosts tagged %2$s"
+msgstr "%1$sPublications étiquetées %2$s"
+
+#: inc/fullframe-breadcrumb.php:59
+msgid "%1$sSearch results for: %2$s"
+msgstr "%1$s Résultats de recherche pour : %2$s"
+
+#: inc/fullframe-breadcrumb.php:58
+msgid "%1$s Archive for %2$s"
+msgstr "%1$s archive pour %2$s"
+
+#: inc/fullframe-breadcrumb.php:57
+msgid "Home"
+msgstr "Accueil"
+
+#: inc/customizer-includes/fullframe-customizer.php:161
+#: inc/customizer-includes/fullframe-customizer.php:172
+msgid "Important Links"
+msgstr "Liens importants "
+
+#: inc/customizer-includes/fullframe-customizer.php:151
+msgid "Check to reset all settings to default"
+msgstr "Cochez pour réinitialiser tous les réglages par défaut "
+
+#: inc/customizer-includes/fullframe-customizer.php:140
+msgid "Reset all settings"
+msgstr "Réinitialiser tous les réglages"
+
+#: inc/customizer-includes/fullframe-customizer.php:138
+msgid "Caution: Reset all settings to default. Refresh the page after save to view full effects."
+msgstr "Attention : Réinitialise tous les réglages par défaut. Rafraîchissez la page après enregistrement pour voir pleinement les effets."
+
+#: inc/customizer-includes/fullframe-customizer.php:113
+msgid "Color Scheme"
+msgstr "Jeu de couleurs"
+
+#: inc/customizer-includes/fullframe-customizer.php:95
+msgid "Check to move Site Title and Tagline before logo"
+msgstr "Cochez pour déplacer le Titre de site et le Slogan avant le logo "
+
+#: inc/customizer-includes/fullframe-customizer.php:80
+msgid "Logo Alt Text"
+msgstr "Texte alternatif du Logo"
+
+#: inc/customizer-includes/fullframe-customizer.php:66
+msgid "Check to disable logo"
+msgstr "Cochez pour désactiver le logo "
+
+#: inc/customizer-includes/fullframe-customizer.php:53
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:426
+msgid "Default Display Text in Search"
+msgstr "Affichage du texte par défaut dans la Recherche"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:416
+msgid "Search Options"
+msgstr "Options de recherche "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:413
+msgid "Change default placeholder text in Search."
+msgstr "Changer le texte indicatif par défaut dans la Recherche."
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:368
+msgid "Promotion Headline Link"
+msgstr "Lien sur la section Promotion"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:354
+msgid "Promotion Headline Button Text "
+msgstr "Texte du bouton sur la section Promotion"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:353
+msgid "Appropriate Words: 3"
+msgstr "Nombre de mots approprié : 3 "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:340
+msgid "Promotion Subheadline Text"
+msgstr "Texte du sous-titre de la section Promotion"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:339
+msgid "Appropriate Words: 15"
+msgstr "Nombre de mots approprié : 15 "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:326
+msgid "Promotion Headline Text"
+msgstr "Titre de la section Promotion"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:325
+msgid "Appropriate Words: 10"
+msgstr "Nombre de mots approprié : 10 "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:311
+msgid "Enable Promotion Headline on"
+msgstr "Activer la section Promotion sur "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:300
+msgid "Promotion Headline Options"
+msgstr "Options de section Promotion"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:297
+msgid "To disable the fields, simply leave them empty."
+msgstr "Pour désactiver les champs, laissez simplement vide. "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:288
+msgid "Pagination type"
+msgstr "Type de pagination "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:277
+msgid "Pagination Options"
+msgstr "Options de pagination "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:266
+msgid "Numeric Option requires <a target=\"_blank\" href=\"%s\">WP-PageNavi Plugin</a>."
+msgstr "Option numérique nécessite <a target=\"_blank\" href=\"%s\"> WP-PageNavi Plugin </a>. "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:255
+msgid "Infinite Scroll Options requires <a target=\"_blank\" href=\"%s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgstr "Options de défilement infini nécessite <a target=\"_blank\" href=\"%s\"> JetPack Plugin </a> avec module Infini Scroll permis. "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:248
+msgid "Numeric Option requires <a target=\"_blank\" href=\"%1$s\">WP-PageNavi Plugin</a>.<br/>Infinite Scroll Options requires <a target=\"_blank\" href=\"%2$s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgstr "L’option numérique nécessite <a target=\"_blank\" href=\"%1$s\">l’extension WP-PageNavi</a>. <br/> L’option de défilement Infini nécessite <a target=\"_blank\" href=\"%2$s\">l’extension JetPack</a> et le module Infini Scroll activé."
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:237
+msgid "Single Page/Post Image Layout "
+msgstr "Mise en page de l’image sur Page/Article seul. "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:224
+msgid "Archive Content Layout"
+msgstr "Mise en page du contenu des Archives"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:210
+msgid "Default Layout"
+msgstr "Mise en page par défaut"
+
+#: inc/fullframe-metabox.php:88
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:199
+msgid "Layout Options"
+msgstr "Options de mise en page"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:188
+msgid "Select/Add Logo Icon"
+msgstr "Sélectionner / Ajouter une icône Logo"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:187
+msgid "Logo Icon is displayed in Primary Menu"
+msgstr "L’icône du logo est affichée dans le menu principal"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:178
+msgid "Icon Options"
+msgstr " Options d’icône"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:175
+msgid "Remove Icon images to disable."
+msgstr "Retirer l’image d’icône pour désactiver."
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:164
+msgid "Select Categories"
+msgstr "Sélectionner les Catégories "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:154
+msgid "Homepage / Frontpage Options"
+msgstr "Options de Page d'accueil / Page de blog"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:151
+msgid "Only posts that belong to the categories selected here will be displayed on the front page"
+msgstr "Seuls les articles appartenant aux catégories sélectionnées ici seront affichés sur la page d'accueil "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:142
+msgid "Read More Text"
+msgstr "Lire le reste du texte"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:128
+msgid "Excerpt Length (words)"
+msgstr "Longueur de l’extrait (mots) "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:121
+msgid "Excerpt length. Default is 40 words"
+msgstr "Longueur de l’extrait . 40 mots par défaut"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:111
+msgid "Excerpt Options"
+msgstr "Options d’extrait"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:98
+msgid "Enter Custom CSS"
+msgstr "Saisissez le CSS personnalisé "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:88
+msgid "Custom CSS Options"
+msgstr "Options de CSS personnalisé"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:85
+msgid "Custom/Inline CSS"
+msgstr "CSS Personnalisé / en ligne "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:70
+msgid "Separator between Breadcrumbs"
+msgstr "Séparation entre les éléments du Fil d’Ariane"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:54
+msgid "Check to enable Breadcrumb on Homepage"
+msgstr "Cochez pour activer le fil d’Ariane sur la page d'accueil "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:41
+msgid "Check to enable Breadcrumb"
+msgstr "Cochez pour activer le fil d’Ariane "
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:30
+msgid "Breadcrumb Options"
+msgstr "Options de fil d’Ariane"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:28
+msgid "Breadcrumbs are a great way of letting your visitors find out where they are on your site with just a glance. You can enable/disable them on homepage and entire site."
+msgstr "Le fil d’Ariane est un excellent moyen de faire comprendre à vos visiteurs où ils sont sur votre site d’un simple coup d’œil. Vous pouvez  l’activer / le désactiver sur la page d'accueil et sur tout le site."
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:23
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:20
+msgid "Basic theme Options"
+msgstr "Options de base du thème"
+
+#: inc/customizer-includes/fullframe-customizer-social-icons.php:40
+msgid "Skype link can be of formats:<br>callto://+{number}<br> skype:{username}?{action}. More Information in readme file"
+msgstr "Le lien Skype peut être au format :<br>callto://+{number}<br> skype:{username}?{action}. Plus d’informations dans le fichier readme"
+
+#: inc/customizer-includes/fullframe-customizer-social-icons.php:21
+#: inc/customizer-includes/fullframe-customizer-social-icons.php:27
+msgid "Social Links"
+msgstr "Liens sociaux"
+
+#: inc/customizer-includes/fullframe-customizer-social-icons.php:19
+msgid "Note: Enter the url for correponding social networking website"
+msgstr "Remarque : saisissez l’URL correspondant au réseau social du site"
+
+#: inc/customizer-includes/fullframe-customizer-theme-options.php:382
+#: inc/customizer-includes/fullframe-customizer-header-options.php:79
+msgid "Check to Open Link in New Window/Tab"
+msgstr "Cochez pour ouvrir le lien dans une nouvelle fenêtre / onglet "
+
+#: inc/customizer-includes/fullframe-customizer-header-options.php:66
+msgid "Featured Header Image Link URL"
+msgstr "Lien URL de l’image d’en-tête mise en avant"
+
+#: inc/customizer-includes/fullframe-customizer-header-options.php:53
+msgid "Featured Header Image Alt/Title Tag "
+msgstr "Balise de titre / texte alternatif de l’image d’en-tête mise en avant "
+
+#: inc/customizer-includes/fullframe-customizer-header-options.php:40
+msgid "Page/Post Featured Header Image Size"
+msgstr "Taille de l’image d’en-tête mise en avant sur une Page / un Article"
+
+#: inc/customizer-includes/fullframe-customizer-header-options.php:25
+msgid "Enable Featured Header Image on "
+msgstr "Activer l’image d’en-tête mise en avant sur "
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:155
+msgid "No of Slides"
+msgstr "Nombre de diapositives"
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:148
+msgid "Save and refresh the page if No. of Slides is changed (Max no of slides is 20)"
+msgstr "Enregistrez et actualisez la page si le nombre de diapositives est modifié (20 diapositives maximum) "
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:133
+msgid "Select Slider Type"
+msgstr "Sélectionnez le type de diaporama"
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:117
+msgid "Image Loader"
+msgstr "Chargeur d’image"
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:115
+msgid "True: Fixes the height overlap issue. Slideshow will start as soon as two slider are available. Slide may display in random, as image is fetch.<br>Wait: Fixes the height overlap issue.<br> Slideshow will start only after all images are available."
+msgstr "Exact : corrige le problème de chevauchement de hauteur. Le diaporama démarre aussitôt que deux diapositives sont disponibles. Les diapositives peuvent s’afficher en mode aléatoire, quand l’image est cherchée.<br/>En attente : corrige le problème de chevauchement de hauteur.<br/>Le diaporama démarrera uniquement après avoir chargé toutes les images disponibles."
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:100
+msgid "Transition Length"
+msgstr "Durée de transition"
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:81
+msgid "Transition Delay"
+msgstr "Délai de transition "
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:77
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:96
+msgid "seconds(s)"
+msgstr "seconde(s) "
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:61
+msgid "Transition Effect"
+msgstr "Effet de transition "
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:45
+msgid "Enable Slider on"
+msgstr "Activer le diaporama sur "
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:21
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:33
+msgid "Featured Slider"
+msgstr "Diaporama mis en avant"
+
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:19
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:27
+msgid "Featured Slider Options"
+msgstr "Options du diaporama mis en avant"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:224
+msgid "Select/Add Background Image"
+msgstr "Sélectionnez / Ajoutez une image d’arrière-plan"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:213
+msgid "Featured Content Background Settings"
+msgstr "Réglages de l’arrière-plan de la section mise en avant"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:202
+#: inc/customizer-includes/fullframe-customizer-featured-slider.php:172
+msgid "Featured Page"
+msgstr "Page mise en avant"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:186
+msgid "Display Content"
+msgstr "Contenu à afficher"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:170
+msgid "Check to Enable Title"
+msgstr "Cochez pour afficher le titre"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:155
+msgid "No of Featured Content"
+msgstr "Nombre de Pages mises en avant"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:148
+msgid "Save and refresh the page if No. of Featured Content is changed (Max no of Featured Content is 20)"
+msgstr "Enregistrez et actualisez la page si vous modifiez le nombre de contenus mis en avant (20 contenus mis en avant maximum) "
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:132
+msgid "Sub-headline for Featured Content"
+msgstr "Sous-titre pour la section mise en avant"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:131
+msgid "Leave field empty if you want to remove Sub-headline"
+msgstr "Laissez le champ vide si vous souhaitez supprimer le sous-titre "
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:115
+msgid "Headline for Featured Content"
+msgstr "Titre de la section mise en avant"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:114
+msgid "Leave field empty if you want to remove Headline"
+msgstr "Laissez le champ vide si vous souhaitez supprimer le titre"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:99
+msgid "Select Content Type"
+msgstr "Sélectionnez le type de section"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:83
+msgid "Check to Enable Sliding Effect"
+msgstr "Cochez pour activer l’effet de glissement"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:68
+msgid "Check to Move above Footer"
+msgstr "Cochez pour déplacer au-dessus du Pied de page"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:53
+msgid "Select Featured Content Layout"
+msgstr "Sélectionnez la mise en page de la section mise en avant"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:37
+msgid "Enable Featured Content on"
+msgstr "Activer la section mise en avant sur "
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:26
+msgid "Featured Content Options"
+msgstr "Options de la section mise en avant"
+
+#: inc/fullframe-featured-content.php:57
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:20
+msgid "Featured Content"
+msgstr "Section de Pages mises en avant"
+
+#: inc/customizer-includes/fullframe-customizer-featured-content-setting.php:18
+msgid "Options for Featured Content"
+msgstr "Options pour la section mise en avant"
+
+#: inc/customizer-includes/fullframe-customizer-custom-controls.php:66
+msgid "Review"
+msgstr "Avis"
+
+#: inc/customizer-includes/fullframe-customizer-custom-controls.php:62
+msgid "Donate Now"
+msgstr "Faire un don maintenant "
+
+#: inc/customizer-includes/fullframe-customizer-custom-controls.php:58
+msgid "Changelog"
+msgstr "Journal des changements"
+
+#: inc/customizer-includes/fullframe-customizer-custom-controls.php:54
+msgid "Support"
+msgstr "Support"
+
+#: inc/customizer-includes/fullframe-customizer-custom-controls.php:50
+msgid "Theme Instructions"
+msgstr " Instructions de thème"
+
+#: inc/customizer-includes/fullframe-customizer-custom-controls.php:37
+msgid "Hold down the Ctrl (windows) / Command (Mac) button to select multiple options."
+msgstr "Maintenez le bouton Ctrl (windows) / Commande (Mac) pour sélectionner plusieurs options."
+
+#: content-page.php:35 inc/fullframe-core.php:541 inc/fullframe-core.php:560
+#: inc/fullframe-core.php:686
+msgid "Edit"
+msgstr "Modifier"
+
+#: content-page.php:28 content.php:46 content-single.php:31
+msgid "Pages:"
+msgstr "Pages :"
+
+#: content-none.php:30 no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. Essayez en lançant une recherche."
+
+#: content-none.php:25 no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec des mots différents."
+
+#: content-none.php:21 no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier article ? <a href=\"%1$s\">Lancez-vous ici</a> !"
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Rien de trouvé"
+
+#: comments.php:87
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:52 comments.php:77
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: comments.php:51 comments.php:76
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: comments.php:50 comments.php:75
+msgid "Comment navigation"
+msgstr "Navigation dans les commentaires"
+
+#: sidebar.php:53
+msgid "Archives"
+msgstr "Archives"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Il semble que nous n’ayons rien trouvé ici. Essayez peut-être avec l’un des liens ci-dessous ou en lançant une recherche ?"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups ! Cette page est introuvable."
+
+#. Author URI of the theme
+msgid "https://catchthemes.com/"
+msgstr "https://catchthemes.com/"
+
+#. Author of the theme
+msgid "Catch Themes"
+msgstr "Catch Themes"
+
+#. Theme URI of the theme
+msgid "https://catchthemes.com/themes/full-frame/"
+msgstr "https://catchthemes.com/themes/full-frame/"
